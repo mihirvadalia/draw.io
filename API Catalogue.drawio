@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T10:11:22.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="3SfAXuiOHw1MWW3AhE5F" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-19T10:13:46.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="dHgCbVOPdAghaXHeipLc" version="14.9.0" type="github">
   <diagram id="hx7kSRPPIi0QOUkbdK9X" name="Page-1">
     <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,6 +15,21 @@
         </mxCell>
         <mxCell id="LPZLyY3ZkloCUkzybGH4-5" value="By Open Banking Standards" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="50" y="200" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LPZLyY3ZkloCUkzybGH4-6" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="220" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LPZLyY3ZkloCUkzybGH4-7" value="CDR" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="LPZLyY3ZkloCUkzybGH4-6">
+          <mxGeometry x="8" y="7.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="LPZLyY3ZkloCUkzybGH4-8" value="PSD2" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="LPZLyY3ZkloCUkzybGH4-6">
+          <mxGeometry x="8" y="37.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="LPZLyY3ZkloCUkzybGH4-9" value="CMA" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.checkbox;rSize=0;resizable=0;fillColor=#aaaaaa;strokeColor=#444444;gradientColor=#666666;align=left;spacingLeft=4;fontSize=17;fontColor=#008cff;labelPosition=right;" vertex="1" parent="LPZLyY3ZkloCUkzybGH4-6">
+          <mxGeometry x="8" y="67.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="LPZLyY3ZkloCUkzybGH4-10" value="BIAN" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="LPZLyY3ZkloCUkzybGH4-6">
+          <mxGeometry x="8" y="97.5" width="15" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
